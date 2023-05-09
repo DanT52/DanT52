@@ -38,5 +38,5 @@ Hi there, I'm Daniel, a computer science student with a passion for making stuff
   
 - 📫 How to reach me: dantramp52@gmail.com
   
-- ⚡ Fun fact: I once built a computer out of old pizza boxes and it became self-aware. -<img align="left" alt="Linux" width="10px" style="padding-right:10px;" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" />
+- ⚡ Fun fact: I once built a computer out of old pizza boxes and it became self-aware. -<img align="center" alt="Linux" width="20px" style="padding-right:10px;" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" />
 
