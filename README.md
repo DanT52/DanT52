@@ -2,7 +2,7 @@
 
 ** `Computer Science Student `**
 
-Hi there, I'm Daniel, a computer science student with a passion for making stuff that does stuff.
+Hi there, I'm Daniel, a computer science student with a passion for coding stuff that does stuff.
 
 
 ### 🧰 Languages and Tools I've used.
@@ -25,18 +25,8 @@ Hi there, I'm Daniel, a computer science student with a passion for making stuff
 
 #
 
-<details>
-  <summary><h3>My Coding Journey</h3></summary>
-  
-- 🌱 I’m currently learning ...
-  - React Web development.
-  - How backend stuff works.
-  - Java ( cs class )
-  - everything
 
-- 🤔 I’m looking for help with ... everything
   
 - 📫 How to reach me: dantramp52@gmail.com
   
-- ⚡ Fun fact: I once built a computer out of old pizza boxes and it became self-aware. -<img align="center" alt="Linux" width="20px" style="padding-right:10px;" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" />
 
