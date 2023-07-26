@@ -4,7 +4,7 @@
 
 Hi there, I'm Daniel, a computer science student with a passion for coding stuff that does stuff.
 
-Visit my Portfolio: [DanielBasarab.com](https://danielbasarab.com/)
+Visit my Portfolio: [DanielBasarab.com](https://danielbasarab.com/){:target="_blank"}
 
 
 ### 🧰 Languages and Tools I've used.
