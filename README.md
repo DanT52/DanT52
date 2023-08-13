@@ -29,6 +29,6 @@ Visit my Portfolio: [DanielBasarab.com](https://danielbasarab.com/)
 
 
   
-- 📫 How to reach me: dantramp52@gmail.com
+- 📫 How to reach me: danbas.dev@gmail.com
   
 
