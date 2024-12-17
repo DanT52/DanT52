@@ -6,9 +6,6 @@ Visit my Portfolio: [DanielBasarab.com](https://danielbasarab.com/)
 
 ### 🧰 Languages and Tools I've used.
 
-<a href="https://www.credly.com/badges/172549f1-a2bf-4886-ae5b-550ffff862c1/linked_in_profile" target="_blank">
-  <img align="left" alt="AWS Certified Cloud Practitioner" width="30px" style="padding-right:10px;" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" />
-</a>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
